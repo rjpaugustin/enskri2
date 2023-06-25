@@ -5,7 +5,7 @@ const port = 3000;
 const mailchimp = require('@mailchimp/mailchimp_marketing');
 
 mailchimp.setConfig({
-  apiKey: '814ec4aa44d3d1a13ee82e3a1256dbfa-us21',
+  apiKey: '4ad47d14858ecaadd72f6b62f3da923e-us21',
   server: 'us21',
 });
 
